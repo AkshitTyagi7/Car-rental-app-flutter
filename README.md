@@ -29,8 +29,7 @@
   - Once the payment is done, it saves the data in Firebase Realtime Database. Along with saving ride history on user's end who has booked this ride, information about the rented car also gets saved on the owner side where he can see who has rented his/her car with some information about the ride. A User can cancel a ride anytime.
   - You can give your car on rent by just providing some information about the car your're registering like image, model name etc. It gets save in Firebase Firestore. After registerting your car you have an option to give your car on rent or to remove it from rent anytime you want.
 
-## Wireframe✒️ 
-   - https://www.figma.com/file/3ALznWfTL7k7nPWyPuMfKT/Vehicle-Sharing-App?node-id=18%3A3
+
 
 ## In action👀
 
